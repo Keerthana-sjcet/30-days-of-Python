@@ -1,5 +1,0 @@
-
-numbers = [10,62, 83, 2, 701]
-numbers.remove(62)
-print(numbers)
-
