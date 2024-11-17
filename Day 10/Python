@@ -1,0 +1,37 @@
+
+
+print("Hello, World!"[::2])
+
+A) "HloWrd"
+B) "Hello, World!"
+C) "HlWrd"
+D) "HelloWrd"
+
+Which of the following is a valid Python syntax to create a list?
+
+A) `list = [1, 2, 3, 4, 5]`
+B) `list = (1, 2, 3, 4, 5)`
+C) `list = {1, 2, 3, 4, 5}`
+D) `list = <1, 2, 3, 4, 5>`
+
+
+What is the output of the following code:
+
+x = 5
+y = "5"
+print(x == y)
+
+
+A) `True`
+B) `False`
+
+What is the output of the following code:
+
+print(2 ** 3 ** 2)
+
+A) 64
+B) 512
+C) 729
+D) 256
+
+ 
