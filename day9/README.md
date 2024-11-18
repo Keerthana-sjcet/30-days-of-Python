@@ -1,9 +1,9 @@
 
 # 1.
 
-numbers = [4, 7, 1, 9, 12, 3]
-numbers.sort()
-print(numbers)
+## numbers = [4, 7, 1, 9, 12, 3]
+## numbers.sort()
+## print(numbers)
 
 
 
