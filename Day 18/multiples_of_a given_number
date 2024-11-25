@@ -1,0 +1,13 @@
+"""
+Author: Maria
+Date: 25/11/2024
+Version 1.1
+This is a python program to find the multiples of a given number.
+"""
+
+num=int(input("enter a number "))
+limit=int(input("enter a limit"))
+print('multiples are')
+for i in range(num,limit+1):
+    if i%num==0:
+        print(i, end=' ')
