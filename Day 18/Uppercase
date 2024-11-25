@@ -1,0 +1,12 @@
+"""
+Author:Maria
+Date :25/11/2024
+Version 1.1
+This is a program that takes a list of strings as input and returns a new list with all the strings in uppercase.
+"""
+input_list= ["Python", "Programming"]
+output_list=[]
+for i in input_list:
+    A=i.upper()
+    output_list.append(A)
+    print(output_list)
