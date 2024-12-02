@@ -1,0 +1,13 @@
+"""
+Author : Maria
+Date : 1/12/2024
+Version :1.1
+This is a python program to find the longest string among the given list.
+"""
+
+list=[ "Welcome","to","Python","Programming"]
+longest_string=list[0]
+for string in list:
+    if len(string)>len(longest_string):
+        longest_string = string
+print("The longest string is", longest_string)
