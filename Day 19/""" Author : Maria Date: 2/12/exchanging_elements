@@ -1,0 +1,9 @@
+"""
+Author : Maria
+Date: 2/12/2024
+Version : 1.1
+This is a Python Program to exchange its first and last elements.
+"""
+list =[ "Apple", "Banana","Orange"]
+new_list =[list[-1],list[1],list[0]]
+print(new_list)
