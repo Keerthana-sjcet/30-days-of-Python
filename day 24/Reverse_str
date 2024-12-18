@@ -1,0 +1,12 @@
+"""
+Recursive Function to reverse a string
+"""
+
+def reverse_string(str):
+         if len(str)==0:
+               return str
+         else:
+               return reverse_string(str[1:])+str[0]
+str= "Python Programming"
+result = reverse_string(str)
+print(result)
