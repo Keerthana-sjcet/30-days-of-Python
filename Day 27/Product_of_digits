@@ -1,0 +1,13 @@
+"""
+Author:Maria
+This is a python program to find the product
+of digits of a number using recursive function.
+"""
+def product_number(n):
+    if n<10:
+        return n
+    else:
+        return n%10 *product_number(n//10)
+n=int(input("enter number"))
+result= product_number(n)
+print(result)
