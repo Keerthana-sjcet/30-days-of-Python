@@ -1,0 +1,9 @@
+"""
+Author :Maria
+This is a python program to rotate its positions
+to its right side in a list.
+"""
+numbers=[1,2,3,4,5]
+A=numbers[-2:]
+B= numbers[0:3]
+print("rotated list:",A+B)
