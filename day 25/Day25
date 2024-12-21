@@ -1,0 +1,12 @@
+def count_value(list, value):
+    if len(list)==0:
+        return 0
+    elif list[0]==value:
+        return 1+count_value(list[1:],value)
+    else:
+        return count_value(list[1:],value)
+
+list=[1,2,3,2,4,2]
+value=2
+result=count_value(list, value)
+print(result)
