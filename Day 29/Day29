@@ -1,0 +1,16 @@
+dict = {}
+keys = []
+values = []
+
+n = int(input("How many entries you want?"))
+
+
+for i in range(n):
+    keys.append(input('enter keys'))
+
+for i in range(n):
+    values.append(input('enter values'))
+for i in range(n):
+    dict[keys[i]]= values[i] 
+
+print(dict)
