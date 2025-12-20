@@ -1,5 +1,5 @@
-
-- Each folder represents **one day**
+# 30 DAYS OF PYTHON
+  Each folder represents **one day**
 - Each day contains:
   - A `README.md` with the problem description
   - Python solution files submitted by participants
