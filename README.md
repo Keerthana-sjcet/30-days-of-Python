@@ -47,7 +47,7 @@
 
 ## 🙏 Acknowledgement
 
-Special thanks to our professor for initiating and guiding this challenge.  
+Special thanks to Sarju Sir for initiating and guiding this challenge.  
 This project helped us develop consistency, collaboration, and confidence in Python programming.
 
 ---
