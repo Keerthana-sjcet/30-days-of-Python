@@ -2,24 +2,25 @@
 
 ## 📌 Problem Statement
 Write a Python program to print the following pattern:
+
+5 4 3 2 1                                                                                                                                                                                                              
+5 4 3 2 1                                                                                                                                                                                                              
+5 4 3 2 1                                                                                                                                                                                                              
+5 4 3 2 1                                                                                                                                                                                                              
 5 4 3 2 1
-5 4 3 2 1
-5 4 3 2 1
-5 4 3 2 1
-5 4 3 2 1
+
 
 ## 🎯 Required Output
+The program should produce the following output:
 
-1
-1 2
-1 2 3
-1 2 3 4
+1                                                                                                                                                                                                                      
+1 2                                                                                                                                                                                                                    
+1 2 3                                                                                                                                                                                                                  
+1 2 3 4                                                                                                                                                                                                                
 1 2 3 4 5
 
-markdown
-Copy code
 
 ## 🛠️ Concepts Used
 - Loops in Python
 - Nested loops
-- Pattern printing logi
+- Pattern printing logic
