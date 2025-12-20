@@ -9,8 +9,7 @@ Write a Python program to print the following pattern:
 5 4 3 2 1
 5 4 3 2 1
 
-shell
-Copy code
+
 
 ### 🎯 Required Output
 The program should produce the following output:
@@ -21,8 +20,8 @@ The program should produce the following output:
 1 2 3 4
 1 2 3 4 5
 
-markdown
-Copy code
+
+
 
 ### 🛠️ Concepts Used
 - Loops in Python
