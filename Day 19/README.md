@@ -1,1 +1,1 @@
-# Write a program in python to exchange itsfirst and last elements
+# Write a program in python to exchange the first and last elements of a list
